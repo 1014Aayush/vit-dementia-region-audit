@@ -1,0 +1,8 @@
+torch
+timm==1.0.30
+numpy
+pandas
+scikit-learn
+nibabel
+matplotlib
+openpyxl
